@@ -1,4 +1,4 @@
-# PrivacyPolicy
+# Privacy Policy
 
 This app was created as a Free app. This SERVICE is provided by Chris McHugh at no cost and is intended for use as is.
 
